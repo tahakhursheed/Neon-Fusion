@@ -41,15 +41,6 @@ So in this project we will try to reconstract new images by training 2 these two
 ---
 <br>
 
-## Datasets
-The dataset used in this project is taken from this [Kaggle dataset](https://www.kaggle.com/datafiniti/hotel-reviews#7282_1.csv)
-
-This dataset is a list of about 1,000 hotels and 30,000 reviews. The dataset includes hotel location, name, rating, review data, title, username, and more.
-
-For more information about dataset columns, you can check this [data dictionary](https://developer.datafiniti.co/docs/business-data-schema)
-
-----
-<br>
 
 ### Prerequisites
 The requirements.txt file contains any Python dependencies. You can install them by running this command:
