@@ -17,4 +17,19 @@ The main inspiration behind this piece is the lack of artwork that intersects tr
  
  # Supporting Pictures 
  
+
+ ![](images/techlandscape.PNG)
+
+ **Figure 1**: Illustration of different algorithms and technology stacks to create the art pieces <br/><br/><br/>
+
+![]( images/SampleAIArtPieces.PNG)
+
+  **Figure 2**: Illustration of NST for fusing arabic patterns with english alphabets<br/><br/><br/>
+
+ ![](images/handpaintings.PNG)
+ **Figure 3**: Sample hand drawn light paintings<br/><br/><br/>
+ 
+  ![](images/Drone3dpaint.jpg)
+ **Figure 4**: Drone 3D Light painting 
+ 
  
