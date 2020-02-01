@@ -1,5 +1,5 @@
 # Main Inspiration
-The main inspiration behind this piece is the lack of artwork that intersects traditional arab pieces of art and futuristic pieces of art. Futuristic pieces tend to be digitally inspired and traditional pieces are based heavily on culture and history of arab civilization. We sought to find a middle ground by integrating the past and present to make what we consider would be the future of art.
+The main inspiration behind this piece is the lack of artwork that intersects traditional arab pieces of art and futuristic pieces of art. Futuristic pieces tend to be digitally inspired and traditional pieces are heavily based on culture and history of arab civilization. We sought to find a middle ground by integrating the past and present to make what we consider would be the future of art. From the past, we picked arabic symbols and patterns and from the future we picked the unique technique of light painting and adapted it to a drone to create this fusion
 
 # How it was built
 
